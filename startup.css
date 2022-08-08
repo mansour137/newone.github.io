@@ -1,0 +1,41 @@
+body,
+html { 
+    background: url(header.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+    font-size: 3rem;
+    color:#e2dbdb;
+}
+hr{
+    max-width: 65px;
+    margin: 20px auto;
+    border: 3px solid #F05F44;
+    opacity: 1;
+}
+.buffer{
+    height: 10rem;
+}
+.btn-xl{
+    padding: 1rem 2rem;
+}
+.btn{
+    font-weight: 700;
+    border-radius: 50px;
+    text-transform: uppercase;
+}
+.btn-primary{
+    background-color: #f05f44;
+    border-color: #f05f44;
+}
+.btn-primary:hover{
+    background-color: #ee4b08;
+    border-color: #f05f44;
+    
+}
+.text-center{
+    margin-bottom: -22px;
+}
